@@ -1,5 +1,5 @@
 # lky
-Stock/share data analysis graduation projects written for LKY.   
+Stock/share data analysis master graduation projects written for LKY.   
 - ### p1   
 First project asked by LKY which I wrote for free.
 - ### p2   
