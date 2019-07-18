@@ -6,4 +6,4 @@ First project asked by LKY which I wrote for free.
 Second project asked by LKY which I charged her 500 kuai.   
 
 # Description  
-These 2 projects are data analysis projects based on different input dataset plus different data analysis rules. they are all data analysis project concerning Stock/Share trade, which I know little about.
+These 2 projects are data analysis projects based on different input dataset plus different data analysis rules. They are all data analysis project concerning Stock/Share trade, which I know little about.
